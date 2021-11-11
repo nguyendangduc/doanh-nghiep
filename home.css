@@ -769,7 +769,7 @@
   }
 } .u-section-4 {
   background-image: none;
-  min-height: 744px;
+  min-height: 761px;
 }
 
 .u-section-4 .u-text-1 {
@@ -778,7 +778,7 @@
   text-transform: uppercase;
   font-weight: 500;
   font-family: Roboto, sans-serif;
-  margin: 52px 80px 0;
+  margin: 60px 80px 0;
 }
 
 .u-section-4 .u-blog-1 {
@@ -970,10 +970,6 @@
     margin-right: initial;
     margin-left: initial;
   }
-
-  .u-section-4 .u-text-8 {
-    margin-top: 20px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -983,10 +979,6 @@
 
   .u-section-4 .u-repeater-1 {
     grid-template-columns: calc(50% - 10px) calc(50% - 10px);
-  }
-
-  .u-section-4 .u-text-8 {
-    margin-top: 0;
   }
 }
 
@@ -1035,14 +1027,8 @@
   .u-section-4 .u-text-1 {
     width: 340px;
     font-size: 2.25rem;
-    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
-  }
-
-  .u-section-4 .u-blog-1 {
-    margin-top: 40px;
-    margin-left: initial;
   }
 
   .u-section-4 .u-group-1 {
@@ -1058,11 +1044,6 @@
   .u-section-4 .u-group-3 {
     width: 330px;
     margin-top: -148px;
-  }
-
-  .u-section-4 .u-btn-4 {
-    margin-top: 28px;
-    margin-bottom: 49px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 839px;
