@@ -36356,7 +36356,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     margin-top: 20px;
-    margin-right: -21px;
+    margin-right: 0;
   }
 
   .u-header .u-image-1 {
@@ -36657,7 +36657,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-4 {
-    min-height: 100px;
+    min-height: 389px;
   }
 
   .u-footer .u-form-1 {
@@ -36764,6 +36764,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -456px;
     margin-right: 746px;
     margin-left: -726px;
+  }
+
+  .u-footer .u-layout-cell-4 {
+    min-height: NaNpx;
   }
 
   .u-footer .u-container-layout-4 {
